@@ -1,2 +1,2 @@
 # AC_POTD
-This repository contains the solution for POTD conducted by Application club (AC)
+This repository contains the solution for POTDs conducted by Application club (AC)
